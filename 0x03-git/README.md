@@ -1,1 +1,1 @@
-read me inside 0x03-git
+read me inside 0x03-git project
